@@ -1,0 +1,107 @@
+body{
+    text-align: center;
+}
+.inicio{
+    background-image: url(https://blogdejhonn.files.wordpress.com/2013/12/estructura.jpg);
+    background-size: cover;
+}
+h1{
+    padding-top: 80px;
+    color: black;
+    text-align: center;
+    font-family: cursive;
+}
+.h1-login{
+    color: white;
+}
+img{
+    width: 200px;   
+    
+}
+.input-imag{
+    width: 20px;
+}
+.cambio{
+    width: 500px;
+    border-radius: 50px;
+}
+.boton-login{
+    background-color: black;
+    border-radius: 15px ;
+    width: 150px;
+    font-family: cursive;
+    font-size:larger;            
+}
+.boton-contraseña{
+    color: black;
+    font-family: cursive;
+}
+.form-text{
+    text-align: left;
+    font-style: italic;
+    font-size: large;
+    color: black;  
+}
+.tamaño-equipo{
+    width: 50%;
+}
+.img-equipo{
+    width: 400px;
+    border-radius: 100px;
+    border: 2px solid;
+}
+.menu-size{
+    width: 30%;
+}
+.login-size{
+    width: 20%;
+}
+.boton-menu{
+    text-align: center;
+}
+.style-table{
+    background-color: rgba(128, 128, 128, 0.555);
+    border: 2px solid;
+}
+.style-table-2{
+    border: 2px solid;
+}
+.top-table{
+    padding-top: 60px;
+}
+.all-table{
+    border: 2px solid;
+}
+.top-registro{
+    padding-top: 200px;    
+}
+.h1-registro{
+    padding-top: 150px;
+    font-size: 50px;
+    text-align: center;
+}
+.img-registro{
+    background-image: url(https://cdn.pixabay.com/photo/2018/07/05/12/47/gdpr-3518253_960_720.jpg) ;
+    background-size: cover;
+    opacity: 1;
+}
+.img-cambie{
+    background-image: url(https://cdn.pixabay.com/photo/2019/04/29/09/33/anonymous-4165613_960_720.jpg);
+    background-size: cover;
+}
+.h1-cambie{
+    color: white;
+}
+.img-registro1{
+    background-image: url(https://cdn.pixabay.com/photo/2017/01/23/08/13/microphone-2001751_960_720.png);
+    background-size: cover;
+    opacity: 1;    
+}
+.color-text{
+    color: white;
+}
+.h1-equipo{
+    font-family: cursive;
+    font-size: 400%;
+    color: white;
+}
