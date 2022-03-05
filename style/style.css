@@ -73,15 +73,16 @@ img{
     border: 2px solid;
 }
 .top-registro{
-    padding-top: 200px;    
+    padding-top: 140px;    
 }
 .h1-registro{
-    padding-top: 150px;
-    font-size: 50px;
+    color: black;    
+    padding-top: 140px;
+    font-size: 100px;
     text-align: center;
 }
 .img-registro{
-    background-image: url(https://cdn.pixabay.com/photo/2018/07/05/12/47/gdpr-3518253_960_720.jpg) ;
+    background-image: url(https://cdn.pixabay.com/photo/2016/03/30/17/07/egypt-1291004_960_720.jpg) ;
     background-size: cover;
     opacity: 1;
 }
